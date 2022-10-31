@@ -14,7 +14,7 @@ En esta práctica se ha realizado un análisis EDA del dataset ``ticdata2000.txt
         - Outliers
 * Representación gráfica
 ### Autores
-Jorge Plaza Yuste: jorge.plaza@cunef.edu
+Jorge Plaza Yuste: jorge.plaza@cunef.edu \
 Álvaro Gómez Pérez: alvaro.gomezperez@cunef.edu
 ### Repositorio
 Trabajo disponible en: https://github.com/JorgePlazaJPY/EDA_Dataset
